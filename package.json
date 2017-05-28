@@ -1,0 +1,25 @@
+{
+  "name": "voa-downloader",
+  "version": "1.0.0",
+  "description": "简易voa爬虫，帮孩子学英语系列",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --harmony-async-await ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeuisKen/voa-downloader.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "isomorphic-fetch": "^2.2.1"
+  },
+  "bugs": {
+    "url": "https://github.com/LeuisKen/voa-downloader/issues"
+  },
+  "homepage": "https://github.com/LeuisKen/voa-downloader#readme"
+}
