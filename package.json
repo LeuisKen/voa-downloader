@@ -15,8 +15,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cheerio": "^0.22.0",
-    "isomorphic-fetch": "^2.2.1"
+    "cheerio": "^1.0.0-rc.10",
+    "isomorphic-fetch": "^3.0.0"
   },
   "bugs": {
     "url": "https://github.com/LeuisKen/voa-downloader/issues"
